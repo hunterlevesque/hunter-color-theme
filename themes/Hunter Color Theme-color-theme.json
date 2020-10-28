@@ -14,7 +14,7 @@
 		"statusBar.background": "#000000",
 		"menu.background": "#000000",
 		"sideBar.background": "#000000",
-		"list.hoverBackground": "#3c970e",
+		"list.hoverBackground": "#6da552",
 		"tab.activeBackground": "#000000",
 		"tab.inactiveBackground":"#000000"
 	},
@@ -98,7 +98,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ddec01"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ddec01"
+				"foreground": "#9af0f7"
 			}
 		},
 		{
@@ -120,7 +120,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f4f7d7"
 			}
 		},
 		{
@@ -130,7 +130,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#7fd13b"
 			}
 		},
 		{
@@ -221,7 +221,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#f5554f"
 			}
 		},
 		{
