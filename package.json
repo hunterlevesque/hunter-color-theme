@@ -10,6 +10,12 @@
 	"categories": [
 		"Themes"
 	],
+	"homepage": "https://github.com/hunterlevesque/hunter-color-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hunterlevesque/hunter-color-theme.git"
+	},
+	"icon": "icon.png",
 	"contributes": {
 		"themes": [
 			{

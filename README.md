@@ -1,5 +1,7 @@
-do what you like!
+*Hunter Color Theme*
 
-**Enjoy It!**
+This is a beautiful VSCode theme。
+
+***Do what you like!***
 
 
