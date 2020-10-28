@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "hunter-color-theme" extension will be documented in this file.
+### [0.0.3]   2020-10-28
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+### 
+Changed:
+- change icon file   
