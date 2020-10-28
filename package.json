@@ -2,7 +2,7 @@
 	"name": "hunter-color-theme",
 	"displayName": "Hunter Color Theme",
 	"description": "do what you like",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
@@ -19,16 +19,15 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Hunter Color Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Hunter Color Theme-color-theme.json"
-			},
-			{
 				"label": "Hunter Color Theme Light",
 				"uiTheme": "vs",
 				"path": "./themes/Hunter Color Theme Light-color-theme.json"
+			},
+			{
+				"label": "Hunter Color Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hunter Color Theme-color-theme.json"
 			}
-			
 		]
 		
 	},

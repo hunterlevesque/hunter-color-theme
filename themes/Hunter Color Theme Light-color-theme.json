@@ -2,21 +2,35 @@
 	"name": "Hunter Color Theme Light",
 	"type": "light",
 	"colors": {
+		
 		"editor.background": "#def7de",
 		"editor.foreground": "#fafafaf0",
 		"editorIndentGuide.background": "#b5e2c6",
 		"editorRuler.foreground": "#000000",
 		"activityBarBadge.background": "#06f742",
-		"sideBarTitle.foreground": "#ffffff",
+		"sideBarTitle.foreground": "#6b3737",
 		"list.dropBackground": "#def7de",
 		"editorCursor.background": "#def7de",
 		"activityBar.background":  "#def7de",
+		"activityBar.activeBorder": "#5bb1c0",
+		"activityBar.foreground": "#1d301e",
 		"statusBar.background": "#def7de",
-		"menu.background": "#def7de",
+		"statusBar.border": "#30df88",
+		"statusBar.foreground": "#134327",
+		"menu.background": "#7be47b",
 		"sideBar.background": "#def7de",
 		"list.hoverBackground": "#e8e296",
 		"tab.activeBackground": "#def7de",
-		"tab.inactiveBackground":"#def7de"
+		"tab.inactiveBackground":"#def7de",
+		"tab.activeBorder": "#05cddb",
+		"tab.activeForeground": "#05cddb",
+		"tab.inactiveForeground": "#21772d",
+		"searchEditor.findMatchBackground": "#c74545",
+		"tab.hoverForeground": "#05cddb",
+		"tab.unfocusedInactiveBackground": "#c52727",
+		"editorGroupHeader.tabsBackground": "#def7de",
+		"input.background": "#ddfadd",
+		"input.border": "#899187"
 	},
 	"tokenColors": [
 		{
