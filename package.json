@@ -2,7 +2,7 @@
 	"name": "hunter-color-theme",
 	"displayName": "Hunter Color Theme",
 	"description": "do what you like",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
